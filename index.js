@@ -16,4 +16,4 @@ console.log(firstMealOfTheDay);
 
 letMeEat.unshift(firstMealOfTheDay);//adding the item at first postions
 
-console.log(letMeEat)
+console.log(letMeEat);
